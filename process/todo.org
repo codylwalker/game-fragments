@@ -1,0 +1,4 @@
+- [ ] implement textile without context
+- [ ] start design for a basic window-manager
+- [ ] develop a workflow for photographing my design notes
+- [ ] add backlog of working notes (from before <2017-10-30 Mon>)
