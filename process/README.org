@@ -1,7 +1,15 @@
+* <2017-09-28 Thu>
+thinking about games and/as archives
+
+building a game around an archive's api
+instagram, twitter, sound recordings, youtube
+
+bots build an archive
+design an interface around the material
+
 * <2017-10-31 Tue>
 Finally talked to a friend about the shared code I was using (mostly for the context system that I used).
 I'll start implementing a basic version of the textile and see how far I can get without needing context, then I'll can start pulling stuff in.
-
 
 
 * <2017-10-30 Mon>
@@ -16,3 +24,24 @@ I want to explore the org-mode integrations some more.
 What does Jupyter do well? How can I integrate it into the documentation/presentation process? I'll ask T- on Weds.
 
 Also, I found this [[https://blog.jupyter.org/the-continued-existence-of-the-emacs-ipython-notebook-54bd1c371d57][blog post]] on the jupyter blog by the Emacs jupyter maintainer. A short study on how development communities handle overlapping projects and naming conventions.
+
+* <2017-11-02 Thu>
+thinking about selection (not wanting to be fascist or neoliberal)
+mulptiple cursors, multiboxing mice
+(treating them as learning agents? representations of mice?)
+
+functions without representations (??)
+
+
+
+* <2017-11-15 Wed>
+- thinking about textural media / alchemical media
+
+the time cost of development
+storyboarding, design
+game remixing -> lightweight, could it be done quickly?
+
+* <2017-12-04 Mon>
+a game where you write to ais
+
+-- how plausible is it to add networking in one week?
