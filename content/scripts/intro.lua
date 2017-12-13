@@ -26,6 +26,9 @@ function script.run(i)
   left:println('... textual alchemy ...')
   left:endln()
   left:optionln('navigation', function() reader:load(scripts.nav) end)
+  left:endln() 
+  left:optionln('git', function() reader:load(scripts.git) end)
+
 
   -- instructions 
   right:println('[f] -------- fullscreen')
@@ -35,3 +38,4 @@ function script.run(i)
 end
 
 return script
+

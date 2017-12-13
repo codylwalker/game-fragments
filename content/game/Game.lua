@@ -32,6 +32,7 @@ function Game:start()
   self.script_reader:init_saved()
 
   local START = self.resources.scripts.intro
+  -- local START = self.resources.scripts.git
   self.script_reader:load(START)
 end
 
