@@ -45,3 +45,18 @@ game remixing -> lightweight, could it be done quickly?
 a game where you write to ais
 
 -- how plausible is it to add networking in one week?
+
+* <2017-12-24 Sun>
+Here are some reflections on the project so far.
+The goal for this project was to develop a framework for using text in games. I've found it difficult to maintain my focus on the project. Part of that difficulty comes from not having a delineated scope. My thinking has been scattered, and while a lot of that thinking is related to this project (it involves using text systems I'm developing), it feels like a lot of my ideas aren't directly related to this specific project. Would it make sense to try to try the method on my whole research creation practice as a whole, rather than just a project?
+Moreover, the game designs I was getting excited about were much more sophisticated than what I've been able to implement yet. That doesn't have to limit my development though. In fact, this project was about developing a framework for further exploration - so those designs could have pushed me to develop the framework further. That didn't happen, though - and not being able to implement those designs affected my motivation.
+Here are some thoughts on how I might approach this problem moving forward:
+- create smaller prototypes to keep the ideation-programming loop tighter
+- have a strong aesthetic constraint for a project (for example, Pippin's Sibilant Snakelikes)
+- set more daily/weekly goals for the project
+
+As I continue to use the method, I'd like try new methods of playing with version control.
+The visualizations of commit histories in Sourcetree and git's log function are great, but I haven't found a way of engaging them while working on a project.
+Some ideas about how I might:
+- smooth out the workflow for reverting to a commit and running a project (perhaps with the emacs git integration)
+- make my own tool for visualizing commit histories and reverting them? I could talk to Tony about his use of the tags
