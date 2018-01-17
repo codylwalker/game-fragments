@@ -60,3 +60,31 @@ The visualizations of commit histories in Sourcetree and git's log function are 
 Some ideas about how I might:
 - smooth out the workflow for reverting to a commit and running a project (perhaps with the emacs git integration)
 - make my own tool for visualizing commit histories and reverting them? I could talk to Tony about his use of the tags
+
+* <2018-01-17 Wed>
+The method of research-creation documentation explored in this course connects to my research into text-editing tools along a number of lines. In this reflection, I will discuss these connections and how the course fostered their development. 
+The impetus that initially motivated my research into text-editing tools was my feeling trapped by the limitations of the writing tools I was using during my Master's degree. At that time, I was working on creative a creative writing project, and I felt that it was difficult not only to organize my notes and separate them from the narrative I was developing, but that it was extremely difficult to keep track of changes or revisions to that story. I felt chained to an interface with a frustratingly circumscribed possibility space of interactions with text. This prompted a set of related questions: How did word-processing emerge as a distinct form of writing? What forms of digital writing were abandoned, or exist now only in residual forms? And, what novel forms of text-editing and programming are emerging now? (live-coding and performative writing, streamed or broadcast development process, machine-learning integrations).
+
+My research then, is intended to not only to try and understand the social-technical context around text-editing tools, but to try and build similar interfaces with modern frameworks (love2d, for example) to understand their affordances. 
+
+Critical Media scholarship offers an account of technological development that decenters innovation. For example, the work of scholars Charles Acland, Lisa Gittelman, and Jonathan Sterne on the history of audio recording and playback is rife with examples of anamolous developments and alternative possibilites. My own research into text-editing has centered on finding the narrative and affective potential in digital interfaces,
+and trying to expose the assumptions and circumstances that delimit how these writing technologies were developed and taken up by communities.
+
+This prototyping of text interfaces is where my research-creation aligns with creative goals. Specifically, it reflects my desire to find a way of collapsing the space between programming and creative writing by and to try and expand that symbolic space, or at least expand the set of tools to explore that space.
+Wanting to make art that is not allegorical or didactic, but rather, art that reflects (or at least speaks to) the conditions of its development. I feel like the method grants a window into those conditions that would otherwise be occluded. 
+
+This addresses what Wendy Chun describes as the enduring ephemerality of digital works, and how fragile the traces of our digital labour can be. For example, a game-programmer looking for a solution to a technical problem might ask for help on twitter, the replies link to site or image that might soon expire or be rendered illegible.
+
+Similarly, scholarly work often erases the labour of writing and editing presentations and papers. In my own experience, revisions are left as numbered word documents. Many contemporary digital writing tools (google docs, microsoft word, libreoffice writer) offer version tracking and a simple revision history, but these tools are often limited by closed APIs, and they lack the extensibility that would encourage their inclusion into a workflow that uses version control. However, the method's use use of a popular, robust version control system (git) and public hosting service (github) meant that I could experiment with how I wanted to implement the method, and the class provided me a space to discuss the challenges and successes I had in implementing the method with Emacs.
+
+In my research into Emacs' community of developer-users, I encountered Chris Kelty's ethnographic work on Emacs communities: "Two Bits". In that work, he describes Emacs as a 'recursive public', a "[public] concerned with the ability to build, control, modify, and maintain the infrastructure that allows them to come into being in the first place and which, in turn, constitutes their everyday practical commitments and the identities of the participants as creative and autonomous individuals." 
+I think the method's emphasis on making the symbolic work of game design tractable and shareable goes a long way towards making research-creation and game development a practice that is concerned with its own constraints and sustainability.
+
+Most importantly, the method provided me with a means to address my need for a method of documenting my development process. The method's emphasis on using version control to facilitate exploration of specific builds
+goes a long way towards treating documentation and legibility (or reproducibility) as cultural techniques, what Thomas Macho describes as techniques that make symbolic work possible. 
+
+The method makes this symbolic work workable. Being able to identify pivotal moments in a project, is an incredible resource to both the scholar and the developer. being able to execute time-relevent builds of a project and to read the logs related to the project at that stage seems like it could open up a radically more thorough kind of scholarship. 
+
+One element that's particularly intruiging to me about this aspect of the method is how it might open spaces for integrating novel reading and research practices into the presentation of logs, conversations or even executable builds.
+
+Could one stage a whole projects version controlled source, including the documentation - as an explicit part of a creative work? Can we use the method to approach scholarship as game-designers?
