@@ -71,7 +71,7 @@ Critical Media scholarship offers an account of technological development that d
 and trying to expose the assumptions and circumstances that delimit how these writing technologies were developed and taken up by communities.
 
 This prototyping of text interfaces is where my research-creation aligns with creative goals. Specifically, it reflects my desire to find a way of collapsing the space between programming and creative writing by and to try and expand that symbolic space, or at least expand the set of tools to explore that space.
-Wanting to make art that is not allegorical or didactic, but rather, art that reflects (or at least speaks to) the conditions of its development. I feel like the method grants a window into those conditions that would otherwise be occluded. 
+This also connects to my goal of making art that is not allegorical or didactic, but rather, art that reflects (or at least speaks to) the conditions of its development. I feel like the method grants a window into those conditions that would otherwise be occluded. 
 
 This addresses what Wendy Chun describes as the enduring ephemerality of digital works, and how fragile the traces of our digital labour can be. For example, a game-programmer looking for a solution to a technical problem might ask for help on twitter, the replies link to site or image that might soon expire or be rendered illegible.
 
